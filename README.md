@@ -101,6 +101,10 @@ The **Job Application Tracker** is a comprehensive MERN stack web application de
 
 5. **Access the Application**
    - Open your browser and navigate to `http://localhost:3000`.
+  
+6. **Admin Credentials**
+   - Username: admin
+   - Password: admin@1234
 
 ---
 
