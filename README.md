@@ -5,6 +5,10 @@
 
 The **Job Application Tracker** is a comprehensive MERN stack web application designed to manage job applications efficiently. It allows users to track their applications, update statuses, and visualize the data while providing administrative tools for user management. The application is built with a responsive and user-friendly interface, ensuring seamless usage across devices.
 
+### Video Preview
+[![Watch the video]](https://drive.google.com/file/d/1pNV4h47nNIAscP0tdf6jSmSqe6kA6a8t/view?usp=sharing)
+
+
 ---
 
 ## Features
