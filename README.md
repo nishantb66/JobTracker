@@ -75,7 +75,7 @@ The **Job Application Tracker** is a comprehensive MERN stack web application de
      ```
    - For the frontend:
      ```bash
-     cd ../job-tracker-frontend
+     cd job-tracker-frontend
      npm install
      ```
 
@@ -86,20 +86,16 @@ The **Job Application Tracker** is a comprehensive MERN stack web application de
      MONGO_URI=<your_mongodb_connection_string>
      JWT_SECRET=<your_jwt_secret>
      ```
-   - In the `job-tracker-frontend` folder, create a `.env` file:
-     ```env
-     REACT_APP_API_URL=http://localhost:5000
-     ```
 
 4. **Run the Application**
    - Start the backend server:
      ```bash
      cd job-tracker-backend
-     npm start
+     npm run dev
      ```
    - Start the frontend client:
      ```bash
-     cd ../job-tracker-frontend
+     cd job-tracker-frontend
      npm start
      ```
 
@@ -116,14 +112,4 @@ The **Job Application Tracker** is a comprehensive MERN stack web application de
 - **State Management**: ContextAPI
 - **Version Control**: Git & GitHub
 
----
 
-## Missing Features (Optional Enhancements)
-- **Role-Based Access Control (RBAC)**: Provide more granular access levels for users.
-- **Email Notifications**: Send status updates to users via email.
-- **Dark Mode**: Improve user experience with theme customization.
-- **Export Data**: Allow users to export their application data to CSV/Excel.
-
----
-
-Feel free to contribute or raise issues in the repository for further improvements. For any queries, contact the repository owner.
